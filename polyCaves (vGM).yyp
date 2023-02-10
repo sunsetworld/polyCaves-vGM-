@@ -32,15 +32,22 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"order":0,},
     {"id":{"name":"Background","path":"sprites/Background/Background.yy",},"order":0,},
+    {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},"order":0,},
+    {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},"order":0,},
     {"id":{"name":"Enemy01","path":"objects/Enemy01/Enemy01.yy",},"order":0,},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},"order":0,},
+    {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":0,},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":0,},
+    {"id":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},"order":0,},
+    {"id":{"name":"Button","path":"sprites/Button/Button.yy",},"order":0,},
     {"id":{"name":"Enemy","path":"sprites/Enemy/Enemy.yy",},"order":0,},
     {"id":{"name":"lvl01","path":"rooms/lvl01/lvl01.yy",},"order":0,},
     {"id":{"name":"Player01","path":"objects/Player01/Player01.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},},
     {"roomId":{"name":"lvl01","path":"rooms/lvl01/lvl01.yy",},},
   ],
   "TextureGroups": [
