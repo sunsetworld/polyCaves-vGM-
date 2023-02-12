@@ -1,7 +1,11 @@
-/// @Enemy destruction.
+/// @description Insert description here
 // You can write your code in this editor
-if (isActive) {
-	if (instance_number(Enemy01) = 1){
+if (es_timer > 0 )
+{
+	es_timer = es_timer-delta_time/1000000;
+} else 
+{
+	es_timer=10;
 	do
 	{
 		spawn_x = random_range(56, 1125);
@@ -9,8 +13,4 @@ if (isActive) {
 		instance_create_layer(spawn_x, spawn_y, "Instances", Enemy01);
 	}
 	until (instance_number(Enemy01) = 5);
-	}
-
-	instance_destroy(other);
-	isActive = false
 }

@@ -10,4 +10,5 @@ if (instance_number(object_index) = 1){
 	}
 	until (instance_number(object_index) = 10);
 }
+audio_play_sound(sound_collect, 10, false);
 instance_destroy();

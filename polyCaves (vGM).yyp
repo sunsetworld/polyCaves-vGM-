@@ -32,6 +32,7 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"sound_collect","path":"sounds/sound_collect/sound_collect.yy",},"order":0,},
     {"id":{"name":"spikes_inactive","path":"sprites/spikes_inactive/spikes_inactive.yy",},"order":0,},
     {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},"order":0,},
     {"id":{"name":"Background","path":"sprites/Background/Background.yy",},"order":0,},
@@ -45,6 +46,8 @@
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},"order":0,},
     {"id":{"name":"fnt_timer","path":"fonts/fnt_timer/fnt_timer.yy",},"order":0,},
     {"id":{"name":"PlusOne","path":"sprites/PlusOne/PlusOne.yy",},"order":0,},
+    {"id":{"name":"sound_hit","path":"sounds/sound_hit/sound_hit.yy",},"order":0,},
+    {"id":{"name":"obj_enemySpawn","path":"objects/obj_enemySpawn/obj_enemySpawn.yy",},"order":0,},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":0,},
     {"id":{"name":"obj_exitButton","path":"objects/obj_exitButton/obj_exitButton.yy",},"order":0,},
     {"id":{"name":"obj_copyrightTxt","path":"objects/obj_copyrightTxt/obj_copyrightTxt.yy",},"order":0,},
@@ -55,6 +58,7 @@
     {"id":{"name":"obj_mainMenuTxt","path":"objects/obj_mainMenuTxt/obj_mainMenuTxt.yy",},"order":0,},
     {"id":{"name":"lvl01","path":"rooms/lvl01/lvl01.yy",},"order":0,},
     {"id":{"name":"obj_startButton","path":"objects/obj_startButton/obj_startButton.yy",},"order":0,},
+    {"id":{"name":"sound_death","path":"sounds/sound_death/sound_death.yy",},"order":0,},
     {"id":{"name":"Player01","path":"objects/Player01/Player01.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
